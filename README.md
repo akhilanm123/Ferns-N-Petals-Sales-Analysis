@@ -1,2 +1,6 @@
-# Ferns-N-Petals-Sales-Analysis
-This project analyzes sales data for Ferns N Petals to track key performance metrics, identify trends, and enable data-driven decision-making. Designed entirely in Excel, the dashboard showcases my ability to clean, transform, and analyze data while building an interactive and visually appealing report.
+# Ferns N Petals Sales Analysis 
+## Project Overview 
+To analyze sales data and create a clear, interactive dashboard for monitoring key metrics like total orders, revenue, and product performance of the year 2023.
+
+# Dataset Used
+https://github.com/Ayushi0214/FNP---Excel-Project/tree/main/fnp%20datasets
