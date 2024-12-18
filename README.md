@@ -30,3 +30,11 @@ This project analyzes sales data for Ferns N Petals to track key performance met
 # Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/698072da-15d3-44ca-ac3a-1253e2a0867a)
 
+#  Key Metrics Analyzed:
+
+## Total Casualties: 417,883
+Breakdown:
+Fatal Casualties: 7,135 (1.7%)
+Serious Casualties: 59,312 (14.2%)
+Slight Casualties: 351,436 (84.1%)
+
