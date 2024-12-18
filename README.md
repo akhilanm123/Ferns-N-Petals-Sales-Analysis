@@ -24,4 +24,5 @@ This project analyzes sales data for Ferns N Petals to track key performance met
 - Data Cleaning & Transformation: Power Query Editor
 - Data Modeling & Calculations: Power Pivot for DAX-based metrics
 - Data Visualization: Excel charts, slicers, and timelines for interactivity
-- 
+
+  # Dashboard Interaction
