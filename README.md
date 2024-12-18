@@ -25,4 +25,5 @@ This project analyzes sales data for Ferns N Petals to track key performance met
 - Data Modeling & Calculations: Power Pivot for DAX-based metrics
 - Data Visualization: Excel charts, slicers, and timelines for interactivity
 
-  # Dashboard Interaction
+# Dashboard Interaction
+-<a href="https://github.com/akhilanm123/Ferns-N-Petals-Sales-Analysis/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.xlsx">Ferns N Petals Sales Analysis</a>
