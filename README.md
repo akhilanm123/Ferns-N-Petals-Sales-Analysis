@@ -32,9 +32,21 @@ This project analyzes sales data for Ferns N Petals to track key performance met
 
 ##  Key Metrics Analyzed:
 
-##### Total Casualties: 417,883
- - Fatal Casualties: 7,135 (1.7%)
- - Serious Casualties: 59,312 (14.2%)
- - Slight Casualties: 351,436 (84.1%)
+- Total Orders: 1,000
+- Total Revenue: ₹35,20,984
+- Average Spending: ₹3,520.98 
+- Average Delivery Time: 5.53 days
+
+## Insights Derived:
+
+#### Revenue Trends:
+- Peak sales occurred during Anniversary (₹675k) and Raksha Bandhan (₹632k), highlighting the seasonal nature of gifting.
+#### Top-Performing Products & Categories:
+- Products like Magman Set (₹122k) and Quia Gift (₹114k) outperformed others.
+- Colors contributed the most (₹1,006k) within categories.
+#### Geographical Insights:
+- Cities like Imphal and Dhanbad had the highest orders, indicating potential target markets.
+#### Operational Analysis:
+- Average delivery time (5.5 days) presents opportunities to improve operational efficiency.
 
           
