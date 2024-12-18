@@ -27,3 +27,6 @@ This project analyzes sales data for Ferns N Petals to track key performance met
 
 # Dashboard Interaction
 -<a href="https://github.com/akhilanm123/Ferns-N-Petals-Sales-Analysis/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.xlsx">Ferns N Petals Sales Analysis</a>
+# Dashboard
+![Dashboard](https://github.com/user-attachments/assets/698072da-15d3-44ca-ac3a-1253e2a0867a)
+
